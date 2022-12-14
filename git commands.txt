@@ -1,2 +1,6 @@
-git init
-git add .
+step 1: git init "---- only once in a project"
+step 2: git add . (for all files)
+step 2: git add file_name (for individual file)
+step 3: git commit -m "Message"
+step 4: git remote add origin https://github.com/Vaibhav-Mehta08/file_name.git "------only once in a project"
+step 5: git push -u origin master
